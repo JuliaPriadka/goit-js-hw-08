@@ -99,7 +99,10 @@ function onImgClick(event) {
     <img 
     src="${currentImgSrc}"
     alt="${currentImgDescr}"
+    width = "1112px"
+    height = "640px"
     />
+    
 `)
   
   instance.show()
